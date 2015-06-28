@@ -1,0 +1,20 @@
+Below is abstract I submitted, but talk drifted away from this a bit ...
+
+Jennifer Bryan, University of British Columbia
+Engaging new UseRs with R Markdown, Git, and GitHub
+
+Every year I teach graduate courses in exploratory data analysis and
+statistics for high-dimensional biology. For each run, we attract ~40
+motivated grad students from a variety of programs and
+backgrounds. Recently, we've had a very rewarding experience
+integrating R Markdown, Git and GitHub into these courses. The
+benefits include
+
+  * reduced webmaster burdens for the instructor
+  * easier dissemination of code and reports
+  * enhanced code-focused interactions, both instructor <--> student
+    and student <--> student
+
+I'll discuss how we use these tools to create a lively R-focused
+community in the classroom.
+
