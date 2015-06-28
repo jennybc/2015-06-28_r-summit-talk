@@ -5,7 +5,7 @@ Talk at [R Summit and Workshop](http://info.cbs.dk/rsummit2015/)
 Want to see the slides?
 
   * PDF is in this repo: [2015-06-28_bryan-r-summit-talk.pdf](2015-06-28_bryan-r-summit-talk.pdf)
-  * View same over [on SpeakerDeck](https://speakerdeck.com/jennybc/) *not here yet*
+  * View same over [on SpeakerDeck](https://speakerdeck.com/jennybc/talk-at-r-summit-and-workshop-about-using-r-markdown-and-github-in-your-workflow)
 
 Links
 ========================================================
