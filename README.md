@@ -2,6 +2,19 @@
 
 Talk at [R Summit and Workshop](http://info.cbs.dk/rsummit2015/)
 
+In case it's not clear from the slides, here's the main gist: Based on my experience ...
+
+  * as an instructor, where I use R Markdown and GitHub heavily in graduate courses, and
+  * as an R power user, working to become more of a developer
+  
+I've formed strong opinions about workflows for R Markdown + GitHub and what the big wins are.
+
+  * Make it a habit to render `.Rmd` and `.R` files to Markdown and, maybe, HTML. Places those files where people can see them, e.g. on GitHub! They help people decide whether they need or want to obtain and run your code.
+  * Exploit Markdown and other browsability features of GitHub to make your source repo do double duty as a decent project webpage. Refine your policies about never commiting an intermediate or final product.
+  * Advanced GitHub searching, coupled with Winston Chang's [mirror of R source](https://github.com/wch/r-source/) and Gábor Csárdi's [mirror of CRAN](https://github.com/cran/), helps you implement "read the source" in an efficient manner.
+  * GitHub Issues are a very versatile way to faciliate conversations that can be, by turns, conversational or technical and code-based.
+  * Never pick `NA` as your username for anything.
+
 Want to see the slides?
 
   * PDF is in this repo: [2015-06-28_bryan-r-summit-talk.pdf](2015-06-28_bryan-r-summit-talk.pdf)
